@@ -1,0 +1,9 @@
+-- NOTAS:
+
+El proyecto se realizó utilizando react.js + vite
+Para los estilos se integró Tailwind.css
+Para las graficas: recharts
+Para los iconos: lucide-react
+
+Se cargó el proyecto a Drive, adjunto enlace:
+https://drive.google.com/drive/folders/15ndtvFM55anYYdcqoXzY-M0-VLrJpGmt?usp=sharing
